@@ -1,1 +1,1 @@
-https://ibk-2661.github.io/pwa/
+https://ibk-2661.github.io/pwa-notification/
