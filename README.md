@@ -1,1 +1,1 @@
-https://ibk-2661.github.io/pwa-notification/
+https://wonderful-daffodil-adb1e3.netlify.app/
