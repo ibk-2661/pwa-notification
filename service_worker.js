@@ -4,9 +4,9 @@ const cacheName = 'pwa-push-notification-test-caches';
 
 // プレキャッシュするファイルの指定
 const precacheResources = [
-	'./index.html',
-	'./script.js',
-	'./style.css'
+	'/index.html',
+	'/script.js',
+	'/style.css'
 ];
 
 // サービスワーカーのインストールが完了したら、キャッシュを開いてプリキャッシュリソースを追加する
